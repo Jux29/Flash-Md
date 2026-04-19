@@ -1,4 +1,4 @@
-<h1 align="center"> JOSHUA TECH MD  </h1>
+i<h1 align="center"> JOSHUA TECH MD  </h1>
 <p align="center">  
   
 ***
@@ -96,3 +96,52 @@
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption. 
 - [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+
+
+
+
+# ⚡ JOSHUATECH MD WHATSAPP BOT
+
+<p align="center">
+  <img src="https://i.ibb.co/6RpfThB9/your-image.jpg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=JOSHUATECH+MD+BOT;FAST+AND+POWERFUL+WHATSAPP+BOT;MADE+BY+JOSHUA+TECH;EASY+TO+USE+AND+DEPLOY" />
+</p>
+
+***
+
+<a href="https://github.com/Jux29/JOSHUATECH/network/members">
+<img title="Forks"
+src="https://img.shields.io/github/forks/Jux29/JOSHUATECH?style=social"></a>
+
+<a href="https://github.com/Jux29/JOSHUATECH/watchers">
+<img title="Watching"
+src="https://img.shields.io/github/watchers/Jux29/JOSHUATECH?label=Watching&style=social"></a>
+
+***
+
+## 🚀 SETUP GUIDE
+
+### 1️⃣ STEP 1
+⭐ First **STAR 🌟 this repo** then **FORK it**
+
+👉 https://github.com/Jux29/JOSHUATECH
+
+---
+
+### 2️⃣ STEP 2
+🔑 Get **SESSION ID**
+
+- Scan QR:  
+https://scan-flash-md-ik5n.onrender.com  
+
+- OR Pairing Code:  
+https://the-flash-md-sessions.onrender.com/pair  
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+*
